@@ -8,8 +8,11 @@ RVML is a live twitter sentiment prediction mapping for the 2016 election. This 
 [R Maps](https://cran.r-project.org/web/packages/maps/maps.pdf)  
 # Authors
 Kevin Pedde
+
 Max McCann
+
 Phillipe Loher
+
 Richard Brosius
 # license
 Copyright Kevin Pedde, Max McCann, Phillipe Loher, and Richard Brosius
